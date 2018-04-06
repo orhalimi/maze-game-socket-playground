@@ -1,0 +1,9 @@
+.canvas-container{
+  margin: auto;
+  background-image: url("./maze.png");
+  height: 700px;
+  width: 50%;
+  background-repeat:no-repeat;
+  background-size: 700px 700px;
+}
+
